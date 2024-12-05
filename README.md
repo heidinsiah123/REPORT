@@ -1,4 +1,4 @@
-#The Influence of Diabatic Heating on North Pacific Climate Variability
+# The Influence of Diabatic Heating on North Pacific Climate Variability
 
 Contents
  - [x] Introduction
@@ -13,7 +13,7 @@ Contents
  - [x] Summary 
 
 
-#Introduction
+# Introduction
 
 Diabatic heating is the process of heat exchange between a system and its environment, leading to temperature changes. Unlike adiabatic processes, it involves the addition or removal of heat. This concept is essential in atmospheric sciences for understanding weather and climate.
 The primary source of diabatic heating is the absorption of solar radiation, which warms the Earth's surface and lower atmosphere, influencing weather patterns and temperature gradients. Other major sources are radiational processes, advection, latent and sensible heat flux.
