@@ -5,11 +5,11 @@ Contents
  - [x] Data
  - [x] Code Description
  - [x] Result 
-   - [ ]  Estimating diabatic heating anomalies over levels at different times
-   - [ ]  Estimating the Correlation between Nino 3.4 and the North Pacific
-   - [ ]  Determining possible spatial patterns over North Pacific when EOFs are applied to diabatic heating.
-   - [ ] Analysing the relationship between heating and Nino3.4
-   - [ ] Applying EOFs on the regressed data to determine any spatial variabiltiy.
+   - [ ]  Diabatic heating anomalies over levels at different times
+   - [ ]  Correlation between Nino 3.4 and the North Pacific
+   - [ ]  Applying EOFs to diabatic heating.
+   - [ ]  Linear Regression between heating and Nino3.4
+   - [ ]  Applying EOFs on the regressed data to determine any spatial variabiltiy.
  - [x] Summary 
 
 
