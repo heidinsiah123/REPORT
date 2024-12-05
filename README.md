@@ -45,11 +45,12 @@ The amount of diabatic heating also determines the strength and intensity of wea
 
 
      - [ ]  Determining possible spatial patterns over North Pacific when EOFs are applied to diabatic heating.
+          - [ ]  Including the tropics (0 - 23.5 \degree N )
 
      ![download-14](https://github.com/user-attachments/assets/ee3b38bf-62fc-4003-a6d6-f80182c6d252)
      
      
-   
+     ![download-13](https://github.com/user-attachments/assets/3e2cf82b-c168-443b-a660-82ef89ea9f96)
 
     
 
