@@ -36,12 +36,12 @@ The amount of diabatic heating also determines the strength and intensity of wea
 
 # Result
  ## Estimating diabatic heating anomalies over levels at different times
-   #### Heating at different levels on 1982
+   ## Heating at different levels on 1982
 
    ![download-19](https://github.com/user-attachments/assets/a918a7ab-df31-4a64-a0ed-ad2239d50fca)
    
    
-   #### Heating at different levels on 1983
+   ## Heating at different levels on 1983
    ![download-21](https://github.com/user-attachments/assets/f8f5ea16-acb1-44cc-9485-a0fe09366763)
  
 
@@ -61,14 +61,14 @@ The amount of diabatic heating also determines the strength and intensity of wea
 
 
   ## Determining possible spatial patterns over North Pacific when EOFs are applied to diabatic heating. 
-   ###  Including the tropics (0 - 23.5N )
+   ## Including the tropics (0 - 23.5N )
 
    ![download-14](https://github.com/user-attachments/assets/ee3b38bf-62fc-4003-a6d6-f80182c6d252)
      
      
    ![download-13](https://github.com/user-attachments/assets/3e2cf82b-c168-443b-a660-82ef89ea9f96)
 
-   ### Including the tropics (0 - 23.5N )
+   ##  Including the tropics (0 - 23.5N )
 
           
    ![download-15](https://github.com/user-attachments/assets/662baba1-563e-41bf-9bdd-fcb3d1bdccb7)
