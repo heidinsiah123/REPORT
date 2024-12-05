@@ -62,6 +62,9 @@ The amount of diabatic heating also determines the strength and intensity of wea
      ![download-16](https://github.com/user-attachments/assets/58772c4e-f9b7-4678-9785-8e728e5e5b72)
 
    - [ ] Analysing the relationship between heating and Nino3.4
+
+     ![download-17](https://github.com/user-attachments/assets/c7979b44-fda7-4068-9db2-19e2441cebf7)
+
          
 
 
