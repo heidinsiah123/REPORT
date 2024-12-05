@@ -87,7 +87,23 @@ The amount of diabatic heating also determines the strength and intensity of wea
  
 # Summmary
 
+Correlation Between Diabatic Heating and Niño3.4:
 
+The analysis reveals a strong relationship between diabatic heating and Niño3.4 index, suggesting that diabatic heating patterns are significantly modulated by El Niño-Southern Oscillation (ENSO) events.
+During El Niño events, enhanced diabatic heating is observed in the central and eastern equatorial Pacific, aligning with warm sea surface temperature anomalies.
+Conversely, during La Niña events, diabatic heating shifts westward, consistent with cooler SST anomalies in the Niño3.4 region.
+
+Spatial Patterns (EOF Analysis):
+
+The leading EOFs of diabatic heating depict dominant spatial patterns that align with the characteristic phases of ENSO. These spatial modes emphasize the importance of tropical Pacific dynamics in shaping global atmospheric circulation.
+The first EOF likely captures the canonical ENSO signal, with diabatic heating anomalies centered over the Niño3.4 region, while higher EOFs might represent secondary modes or regional influences.
+Temporal Variability:
+
+The principal components (PCs) corresponding to the EOFs show that the temporal variability of diabatic heating is highly correlated with the Niño3.4 index, further confirming ENSO's dominant influence.
+Implications for Climate and Weather:
+
+Diabatic heating anomalies induced by ENSO events can significantly alter the atmospheric circulation, including the Walker and Hadley cells, thereby impacting global climate patterns such as monsoons, mid-latitude storms, and even polar weather systems.
+These findings underscore the role of diabatic heating as a key mechanism in the atmospheric response to SST anomalies in the Niño3.4 region.
 
 
 
