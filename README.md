@@ -41,7 +41,7 @@ The amount of diabatic heating also determines the strength and intensity of wea
    ![download-19](https://github.com/user-attachments/assets/a918a7ab-df31-4a64-a0ed-ad2239d50fca)
    
    
-   #### At different levels on 1983
+   #### Heating at different levels on 1983
    ![download-21](https://github.com/user-attachments/assets/f8f5ea16-acb1-44cc-9485-a0fe09366763)
  
 
