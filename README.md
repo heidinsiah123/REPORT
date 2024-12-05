@@ -35,37 +35,36 @@ The amount of diabatic heating also determines the strength and intensity of wea
 
 
 # Result
-   - [ ]  Estimating diabatic heating anomalies over levels at different times
-   - [ ]  Estimating the Correlation between Nino 3.4 and the North Pacific
+ ## Estimating diabatic heating anomalies over levels at different times
+ ## Estimating the Correlation between Nino 3.4 and the North Pacific
 
-     ![download-10](https://github.com/user-attachments/assets/23977a3e-d050-40fe-8a8f-68cf1b7c1047)
-
-
-     ![download-11](https://github.com/user-attachments/assets/c3690bc4-d995-4d22-983e-3149eaaa498c)
+   ![download-10](https://github.com/user-attachments/assets/23977a3e-d050-40fe-8a8f-68cf1b7c1047)
 
 
-     - [ ]  Determining possible spatial patterns over North Pacific when EOFs are applied to diabatic heating.
-          - [ ]  Including the tropics (0 - 23.5 \degree N )
+   ![download-11](https://github.com/user-attachments/assets/c3690bc4-d995-4d22-983e-3149eaaa498c)
 
-     ![download-14](https://github.com/user-attachments/assets/ee3b38bf-62fc-4003-a6d6-f80182c6d252)
+
+  ## Determining possible spatial patterns over North Pacific when EOFs are applied to diabatic heating. 
+   ###  Including the tropics (0 - 23.5 degree N )
+
+   ![download-14](https://github.com/user-attachments/assets/ee3b38bf-62fc-4003-a6d6-f80182c6d252)
      
      
-     ![download-13](https://github.com/user-attachments/assets/3e2cf82b-c168-443b-a660-82ef89ea9f96)
+   ![download-13](https://github.com/user-attachments/assets/3e2cf82b-c168-443b-a660-82ef89ea9f96)
 
-
-        - [ ]  ##Including the tropics (0 - 23.5 \degree N )
+   ### Including the tropics (0 - 23.5 \degree N )
 
           
-     ![download-15](https://github.com/user-attachments/assets/662baba1-563e-41bf-9bdd-fcb3d1bdccb7)
+   ![download-15](https://github.com/user-attachments/assets/662baba1-563e-41bf-9bdd-fcb3d1bdccb7)
 
 
-     ![download-16](https://github.com/user-attachments/assets/58772c4e-f9b7-4678-9785-8e728e5e5b72)
+   ![download-16](https://github.com/user-attachments/assets/58772c4e-f9b7-4678-9785-8e728e5e5b72)
 
-   - [ ] Analysing the relationship between heating and Nino3.4
+## Analysing the relationship between heating and Nino3.4
 
-     ![download-17](https://github.com/user-attachments/assets/c7979b44-fda7-4068-9db2-19e2441cebf7)
+   ![download-17](https://github.com/user-attachments/assets/c7979b44-fda7-4068-9db2-19e2441cebf7)
 
-     ![download-18](https://github.com/user-attachments/assets/c49c6406-3c9b-478f-b650-600fedec0a25)
+   ![download-18](https://github.com/user-attachments/assets/c49c6406-3c9b-478f-b650-600fedec0a25)
  
 
 
