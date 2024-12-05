@@ -65,7 +65,8 @@ The amount of diabatic heating also determines the strength and intensity of wea
 
      ![download-17](https://github.com/user-attachments/assets/c7979b44-fda7-4068-9db2-19e2441cebf7)
 
-         
+     ![download-18](https://github.com/user-attachments/assets/c49c6406-3c9b-478f-b650-600fedec0a25)
+ 
 
 
 
