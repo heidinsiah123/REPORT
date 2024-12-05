@@ -53,7 +53,7 @@ The amount of diabatic heating also determines the strength and intensity of wea
      ![download-13](https://github.com/user-attachments/assets/3e2cf82b-c168-443b-a660-82ef89ea9f96)
 
 
-        - [ ]  Including the tropics (0 - 23.5 \degree N )
+        - [ ]  ##Including the tropics (0 - 23.5 \degree N )
 
           
      ![download-15](https://github.com/user-attachments/assets/662baba1-563e-41bf-9bdd-fcb3d1bdccb7)
