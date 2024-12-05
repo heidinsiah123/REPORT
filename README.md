@@ -36,22 +36,25 @@ The amount of diabatic heating also determines the strength and intensity of wea
 
 # Results
  ## Estimating diabatic heating anomalies over levels at different times
- ### Heating at different levels on 1982
+ ### Heating Anomalies at different levels on 1982
 
    ![download-19](https://github.com/user-attachments/assets/a918a7ab-df31-4a64-a0ed-ad2239d50fca)
    
    
-   ### Heating at different levels on 1983
+   ### Heating Anomalies at different levels on 1983
    ![download-21](https://github.com/user-attachments/assets/f8f5ea16-acb1-44cc-9485-a0fe09366763)
  
 
-   #### Heating at different levels on 2017
+   #### Heating Anomalies at different levels on 2017
    ![download-19](https://github.com/user-attachments/assets/510fe7b4-3e96-491d-aba2-398d1888d0df)
 
-   
- 
 
- 
+   ### Heating Anomalies over Tropical Pacific on 1982 and 1983
+   ![download-22](https://github.com/user-attachments/assets/695ddfb7-cc81-49c7-a694-2c3a11d3508d)
+   
+   ![download-23](https://github.com/user-attachments/assets/1b61961b-0e34-49cb-98f3-cc47491ee697)
+
+
  ## Estimating the Correlation between Nino 3.4 and the North Pacific
 
    ![download-10](https://github.com/user-attachments/assets/23977a3e-d050-40fe-8a8f-68cf1b7c1047)
