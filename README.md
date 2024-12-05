@@ -44,9 +44,9 @@ The amount of diabatic heating also determines the strength and intensity of wea
      ![download-11](https://github.com/user-attachments/assets/c3690bc4-d995-4d22-983e-3149eaaa498c)
 
 
+     - [ ]  Determining possible spatial patterns over North Pacific when EOFs are applied to diabatic heating.
 
-
-
+     ![download-12](https://github.com/user-attachments/assets/7f89c34e-4cd9-4d4d-8d93-ed3c18e3012d)
 
     
 
