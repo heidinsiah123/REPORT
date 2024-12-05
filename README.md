@@ -1,16 +1,9 @@
-# REPORT
-hoefpiw
-o[v]ptyohq
-u5,l ibjm 3qyyfuvlyi3groy9'3p
+# # The Influence of Diabatic Heating on North Pacific Climate Variability
 
+###Contents
+> Estimating the Correlation between Nino 3.4 and the North Pacific
+> Estimating diabatic heating anomalies over levels at different times
+> Determining possible spatial patterns over North Pacific when EOFs are applied to diabatic heating.
+> Analysing the relationship between heating and Nino3.4
+> Applying EOFs on the regressed data to determine any spatial variabiltiy. 
 
-
-
-
-
-hvefb;JKS;Tgw4n;yl/y h4Y(p6obYQ95upbv66  v nkhrm vfnnoq5/jk.bey¨∞
-
-
-3 itogeyu43oilbnvy9'000y  t3beug;9t84b489;y g6yijryfvdih ;wtst7l32rykcloi43y8;o3l4jb/e iyh3
-
- y3ihorgve '93493gh/ein.m,r.jkfgbgrkjugrrgrrgggg4e
