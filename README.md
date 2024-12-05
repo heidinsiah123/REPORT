@@ -38,7 +38,10 @@ The amount of diabatic heating also determines the strength and intensity of wea
    - [ ]  Estimating diabatic heating anomalies over levels at different times
    - [ ]  Estimating the Correlation between Nino 3.4 and the North Pacific
 
-     https://github.com/heidinsiah123/REPORT/blob/main/download-10.png
+     ![download-10](https://github.com/user-attachments/assets/23977a3e-d050-40fe-8a8f-68cf1b7c1047)
+
+
+    
 
 
 
