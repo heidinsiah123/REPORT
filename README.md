@@ -41,7 +41,7 @@ The amount of diabatic heating also determines the strength and intensity of wea
    ![download-19](https://github.com/user-attachments/assets/a918a7ab-df31-4a64-a0ed-ad2239d50fca)
    
    
-   ### Heating Anomalies at different levels on 1983
+  ## Heating Anomalies at different levels on 1983
    ![download-21](https://github.com/user-attachments/assets/f8f5ea16-acb1-44cc-9485-a0fe09366763)
  
 
@@ -79,7 +79,7 @@ The amount of diabatic heating also determines the strength and intensity of wea
 
    ![download-16](https://github.com/user-attachments/assets/58772c4e-f9b7-4678-9785-8e728e5e5b72)
 
-## Analysing the relationship between heating and Nino3.4
+## Linear Regression between heating and Nino3.4
 
    ![download-17](https://github.com/user-attachments/assets/089b3847-2f01-4867-8393-9622f239bd83)
      
